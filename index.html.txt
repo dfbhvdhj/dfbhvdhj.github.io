@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>我的个人博客</title>
+</head>
+<body>
+
+    <h1>欢迎来到我的博客</h1>
+
+    <!-- 相对路径图片（本地图片） -->
+    <h2>相对路径图片</h2>
+    <img src="images/photo.jpg" width="400">
+
+    <!-- 绝对路径图片（网络图片） -->
+    <h2>绝对路径图片</h2>
+    <img src="https://picsum.photos/400/300?random=1" width="400">
+
+    <p>这是我的第一个 GitHub 博客页面。</p>
+
+</body>
+</html>
